@@ -1,0 +1,112 @@
+
+.signUp {
+  height: 20px;
+  margin-bottom: 20px;
+  background-color: #ffffff;
+  margin-left: 550px;
+  margin-right: 550px;
+  height:100%;
+}
+.submit {
+  width:170px;
+}
+.inside_form {
+  text-align: center;
+  padding-top: 30px;
+}
+.fname {
+  width:200px;
+  height:20px;
+}
+.uname {
+  width:200px;
+  height:20px;
+}
+.password {
+  width:200px;
+  height:20px;
+}
+.cpassword {
+  width:200px;
+  height:20px;
+}
+.email {
+  width:200px;
+  height:20px;
+
+}
+.submit {
+  width: 200px;
+
+}
+.head {
+  color:black;
+  margin-left: 100px;
+  margin-top: 20px;
+  padding-top: 50px;
+  font-family: arial;
+}
+.ask_login {
+  font-size: 14px;
+  margin-left: 50px;
+}
+a{
+  text-decoration: none;
+}
+
+/*css effect on faulty entries*/
+.fn{
+  font-size:10px;
+  color:red;
+}
+
+/*css effect for home page*/
+.list {
+  color:red;
+  background-color: white;
+}
+/*blink news */
+.blink_news {
+  background-color:#ffffff;
+  color:#ffffff;
+  margin-right: 1177px;
+}
+.blink_news {
+  animation-duration: 150ms;
+  animation-name: blink1;
+  animation-iteration-count: infinite;
+  animation-direction:
+}
+@keyframes blink1 {
+  from {
+    opacity: 1;
+    background-color: blue;
+    margin-right: 1177px;
+  }
+  to {
+    opacity: 0.8;
+    background-color: red;
+  }
+}
+
+/*link hover effect*/
+
+a:link {
+  color: blue;
+}
+
+/* visited link */
+a:visited {
+  color: darkblue;
+}
+
+/* mouse over link */
+a:hover {
+  text-decoration: none;
+  color: pink;
+}
+
+/* selected link */
+a:active {
+  color: red;
+}
