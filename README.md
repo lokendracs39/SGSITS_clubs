@@ -11,6 +11,6 @@ This is a digital noticeboard to facilitate clubs to publish extracurricular eve
 # Steps to run project
 * First open db.inc.php, present in the include folder, and fill all the required details like HOSTNAME, DATABASE_USERNAME, DATABASE_PASSWORD, DATABASE_NAME.
 * Import news_info.sql, admin.sql into your database.
-* Run the project
+* Execute the project.
 
 # HAPPY CODING 
