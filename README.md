@@ -2,7 +2,7 @@
 This is a digital noticeboard to facilitate clubs to publish extracurricular events.
 # Major Functionality
 * Admin can publish, modify, and delete information of any events .
-* End user can to know all the clubs and their activities at one place.
+* End user can get to know about all the clubs and their activities at one place.
 * End user can see all the upcoming events and the events happend in the past.
 # Description of Folders
 * include folder contains all the database file.
